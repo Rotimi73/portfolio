@@ -17,3 +17,4 @@ Junior Data Analyst passionate about transforming data into actionable insights.
 <p align="left">
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
 </p>
+<img src="path/to/your/image.jpg" alt="excel.png" width="36" height="36">
