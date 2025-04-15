@@ -14,8 +14,8 @@ Junior Data Analyst passionate about transforming data into actionable insights.
 ### Skills
 
 
-<p align="left">
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a>
-</p>
-<img src="path/to/your/image.jpg" alt="excel.png" width="36" height="36">
-tableau.jpg
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="150" height="150" alt="MySQL" />
+
+
+<img src ="https://github.com/user-attachments/assets/2f2bbc7f-5dea-460d-bfee-83986e33db83" width = 150 length = 150 >
+<img src ="https://github.com/user-attachments/assets/8b8335e3-32c1-499f-bf00-03863c790ec2" width = 150 length = 150 >
