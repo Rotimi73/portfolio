@@ -13,9 +13,14 @@ Junior Data Analyst passionate about transforming data into actionable insights.
 
 ### Skills
 
+<img src ="https://github.com/user-attachments/assets/2f2bbc7f-5dea-460d-bfee-83986e33db83" width = 50 length = 50 >
+<img src ="https://github.com/user-attachments/assets/8b8335e3-32c1-499f-bf00-03863c790ec2" width = 50 length = 50 >
+<img src ="https://github.com/user-attachments/assets/90f0efab-df0b-4180-9fac-11b9749d4b7d" width = 50 length = 50 >
+<img src ="https://github.com/user-attachments/assets/2f905176-a03a-4a4c-8103-50544e38b6f8" width = 50 length = 50 >
+<img src ="https://github.com/user-attachments/assets/ab379b26-32e3-41a6-b2b7-fe110e5e5c35" width =50 length = 50 >
+<img src ="https://github.com/user-attachments/assets/c1141a79-f6ed-41f1-b0e5-b68ee5cb2cce" width = 50 length = 50 >
+<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="50" height="50" alt="MySQL" />
 
-<img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="150" height="150" alt="MySQL" />
 
 
-<img src ="https://github.com/user-attachments/assets/2f2bbc7f-5dea-460d-bfee-83986e33db83" width = 150 length = 150 >
-<img src ="https://github.com/user-attachments/assets/8b8335e3-32c1-499f-bf00-03863c790ec2" width = 150 length = 150 >
+
